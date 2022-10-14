@@ -1,7 +1,7 @@
 - 👋🏾 Hi, I’m Jaida
 - ❤ I’m interested in writing, dancing, and reading!
 - 🌱 I’m currently learning JavaScript!
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on pretty much anything! Let me know :)
 - 📫 How to reach me: jaidataylor4@gmail.com
 
 <!---
